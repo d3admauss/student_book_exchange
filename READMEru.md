@@ -46,7 +46,7 @@ Student Book Exchange — это веб-приложение на основе F
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/Sxlken/student_book_exchange.git
+git clone https://github.com/d3admauss/student_book_exchange.git
 ```
 
 2. Установите зависимости:
