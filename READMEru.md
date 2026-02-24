@@ -80,12 +80,12 @@ flask run
 
 6. Откройте http://localhost:5000 в браузере.
 
-``bash
+```bash
 Светлый режим:
-``
+```
 ![image](https://github.com/user-attachments/assets/2f62bbe5-460c-4f3a-a3d9-f5d74ba320ad)
 
-``bash
+```bash
 Темный режим:
-``
+```
 ![image](https://github.com/user-attachments/assets/a0e5de92-b29a-4bc4-9c47-aeef9205ed37)
