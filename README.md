@@ -47,7 +47,7 @@ Student Book Exchange is a Flask and Python based web application designed to fa
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/d3admauss/student_book_exchange.git
+   git clone https://github.com/salk3n/student_book_exchange.git
    ```
    
 2. Install dependencies:
